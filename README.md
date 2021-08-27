@@ -1,16 +1,22 @@
-### Hi there 👋
+[![sinesio bittencourt's GitHub Banner](./assets/vwmu-header.gif)](https://sinesio.com.br) 
 
-<!--
-**gulinux86/gulinux86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋. My name is Sinesio Bittencourt and I love coding and contributing to open source.
 
-Here are some ideas to get you started:
+## I'm currently job as a Senior DevOps engineer at [LetsCloud.io](http://bit.ly/2Wx0LnN) and DevOps engineer at [ahgora](http://bit.ly/3mCCyqZ) | Postgraduate Degree Cloud Computing Architecture and Project Specialist 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 I’m currently working on 
+- GCP
+- AWS
+- Terraform
+- GO e Python
+- Kubernetes + Compose = Kompose
+- Docker
+- GitLab-CI
+- Sonarqube 
+- Canary
+- Grafana/Prometheus/CloudWatch
+- Elasticsearch/Logstash/Filebeat
+- New Relic
+- Zabbix
+- Apache NiFi
+- Apache Kafka
