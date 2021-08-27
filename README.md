@@ -1,4 +1,3 @@
-[![sinesio bittencourt's GitHub Banner](./assets/vwmu-header.gif)](https://sinesio.com.br) 
 
 # Hi there 👋. My name is Sinesio Bittencourt and I love coding and contributing to open source.
 
