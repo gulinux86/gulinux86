@@ -1,21 +1,23 @@
 
-# Hi there 👋. My name is Sinesio Bittencourt and I love coding and contributing to open source.
+# Hi, 👋. My name is Gustavo Nogueira and and I love to Administrate Linux servers | Certified Cpanel/Whm | Cpanel administrator command line CWSA-1 | LPI01 | AWS Cloud Practitioner Essentials.
 
-## I'm currently job as a Senior DevOps engineer at [LetsCloud.io](http://bit.ly/2Wx0LnN) and DevOps engineer at [ahgora](http://bit.ly/3mCCyqZ) | Postgraduate Degree Cloud Computing Architecture and Project Specialist 
+## I'm currently job as a System Administrator at Hostpapa and I belong a monitoring team. 
 
 ### 🔭 I’m currently working on 
-- GCP
-- AWS
-- Terraform
-- GO e Python
-- Kubernetes + Compose = Kompose
+- Linux
+- Cpanel/Whm
+- Plesk
+- Virtualization Kvm/Xen
+- Firewall Iptables
+- Nagios/Zabbix
+- Atlassian/Jira
+- VPS/Dedicated/Shared Server
+- Acronis Backups
+
+### Currently I'm studing to be an DevOps/SRE engeener 
+
 - Docker
-- GitLab-CI
-- Sonarqube 
-- Canary
-- Grafana/Prometheus/CloudWatch
-- Elasticsearch/Logstash/Filebeat
-- New Relic
-- Zabbix
-- Apache NiFi
-- Apache Kafka
+- Kubernets
+- Infra as code (Iac)
+- Aws/Google Cloud
+- Pyhton and Golang
