@@ -14,7 +14,7 @@
 - VPS/Dedicated/Shared Server
 - Acronis Backups
 
-### Currently I'm studing to be an DevOps/SRE engeener 
+### Currently I'm studing to be an DevOps/SRE engineer 
 
 - Docker
 - Kubernets
