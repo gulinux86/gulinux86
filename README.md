@@ -7,12 +7,19 @@ Professional highly qualified with a great focus on excellence in everything tha
  My certifications:
  
 ○ LPIC-1 Certified Linux Administrator
+
 ○ LPIC-2 Certified Linux Engineer
+
 ○ Cpanel & WHM Sales Professional
+
 ○ cPanel Professional Certification (CPP) 
+
 ○ cPanel & WHM Administrator Certification (CWA) 
+
 ○ cPanel & WHM System Administrator I Certification (CWSA-1) 
+
 ○ cPanel & WHM LiteSpeed Certification (CPLSC)
+
 ○ Plesk Onyx Professional
 
 As Sysadmin Skilled with:
