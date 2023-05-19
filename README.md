@@ -6,6 +6,8 @@ Professional highly qualified with a great focus on excellence in everything tha
 
  My certifications:
  
+○ AWS Cloud Practitioner CLF-C01
+
 ○ LPIC-1 Certified Linux Administrator
 
 ○ LPIC-2 Certified Linux Engineer
