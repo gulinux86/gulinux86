@@ -29,11 +29,17 @@ I am driven by DevOps and SRE principles, focusing on automation, GitOps, reliab
 Certifications
  
  AWS Certified Solutions Architect – Associate (SAA-C03) 
+ 
  AWS Certified Cloud Practitioner (CLF-C01) 
+ 
  Certified Kubernetes Administrator (CKA) 
+ 
  Google Cloud Certified – Associate Cloud Engineer (ACE) 
+ 
  LPIC-1: Linux Administrator (LPI) 
+ 
  LPIC-2: Linux Engineer (LPI) 
+ 
  Oracle Cloud Infrastructure Foundations Associate
 
 
