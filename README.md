@@ -1,60 +1,39 @@
-Hi, 👋. My name is Gustavo Nogueira and and I love to Administrate Linux servers. As a professional, along my journey, I've been working with technology since when I started studying Network Computers graduation, in which I graduated.
-
-Beyond experiences with customer support, most of the time, I've been working as a System Administrator, and all of my experiences have been built on it so far. Used to working with time management and dealing with different activities such as answering tickets, writing documentation, and keeping base knowledge up to date, and solving issues. 
-
-Professional highly qualified with a great focus on excellence in everything that propose to do, high resilience to working in different environments, team player, and self-motivated to deliver everything with high quality.
-
- My certifications:
+I am a Senior DevOps Engineer with a strong foundation in systems administration, evolving into cloud-native technologies, platform engineering, and distributed systems.
  
-○ AWS Cloud Practitioner CLF-C01
+My journey began with a degree in Computer Networks, building a solid background in infrastructure, Linux, and networking. Over time, I transitioned into DevOps and SRE, focusing on automation, scalability, and reliability.
+ 
+I have extensive experience in production environments, handling incident response, troubleshooting complex issues, and ensuring high availability of critical systems. I thrive in fast-paced environments, balancing incident management, documentation, and continuous improvement.
+ 
+Today, I design and operate cloud-native platforms across multi-cloud environments. I have strong expertise in Kubernetes ecosystems (OpenShift, OKD, Rancher, EKS, OKE), Infrastructure as Code with Terraform, and GitOps practices.
+ 
+I have hands-on experience implementing GitOps workflows using ArgoCD, enabling declarative deployments, improving consistency, auditability, and rollback strategies.
+ 
+I also bring solid experience in AWS and Google Cloud (GCP), supported by certifications. I have worked with core services such as VPC, IAM, compute, containers, storage, and event-driven architectures, applying best practices for scalability, security, and cost optimization.
+ 
+Technical Skills:
 
-○ LPIC-1 Certified Linux Administrator
+ Cloud: AWS, GCP, OCI
+ Kubernetes: Kubernetes, OpenShift, OKD, Rancher, Docker
+ IaC: Terraform, Ansible
+ CI/CD & GitOps: GitLab CI, GitHub Actions, Jenkins, ArgoCD
+ Observability: Prometheus, Grafana, ELK, Fluent Bit
+ Streaming: Kafka
+ Languages: Python, Shell
+ 
+My SysAdmin background provides strong expertise in Linux, networking, DNS, storage, web servers, virtualization, and monitoring.
+ 
+I have led Kubernetes migrations (e.g., OpenShift to OKD), troubleshooting workloads and ensuring stable transitions. I also implemented Rancher to centralize multi-cluster management, improving governance and RBAC.
+ 
+I am driven by DevOps and SRE principles, focusing on automation, GitOps, reliability, and continuous delivery.
 
-○ LPIC-2 Certified Linux Engineer
+Certifications
+ 
+ AWS Certified Solutions Architect – Associate (SAA-C03) 
+ AWS Certified Cloud Practitioner (CLF-C01) 
+ Certified Kubernetes Administrator (CKA) 
+ Google Cloud Certified – Associate Cloud Engineer (ACE) 
+ LPIC-1: Linux Administrator (LPI) 
+ LPIC-2: Linux Engineer (LPI) 
+ Oracle Cloud Infrastructure Foundations Associate
 
-○ Cpanel & WHM Sales Professional
 
-○ cPanel Professional Certification (CPP) 
-
-○ cPanel & WHM Administrator Certification (CWA) 
-
-○ cPanel & WHM System Administrator I Certification (CWSA-1) 
-
-○ cPanel & WHM LiteSpeed Certification (CPLSC)
-
-○ Plesk Onyx Professional
-
-As Sysadmin Skilled with:
-
- - Linux (Debian, RHEL,CentOS)
- - Iptables
- - Bind
- - Shell Scripting
- - Ansible
- - Monitoring (Nagios/Zabbix)
- - Backup (Acronis/Bacula/Nas)
- - Samba
- - NFS
- - LVM
- - RAID by software (mdadm)
- - WebServer(Httpd/Nginx) 
- - Virtualization (Vmware, XenServer, KVM)
- - Mysql 
- - Cpanel/WHM
- - Plesk
- - Scrum/Kanban
- - Jira
- - Confluence
-
-Nowadays I've been building my skills in DevOps engineering/SRE and skilled in:
-
- - Cloud Computing (AWS - S3, EC2, ELB ASG, EBS, EFS, IAM) 
- - Ansible
- - Terraform 
- - Docker
- - Kubernetes
- - Git
-- GitlabCI
-- Bitbucket
-- CI/CD
-- Python
