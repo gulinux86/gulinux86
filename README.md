@@ -140,6 +140,22 @@
 
 ## 📫 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo%20Nogueira-blue?logo=linkedin)](https://www.linkedin.com/in/gustavonogueira-32758633)
-[![GitHub](https://img.shields.io/badge/GitHub-gulinux86-black?logo=github)](https://github.com/gulinux86)
-[![Email](https://img.shields.io/badge/Email-gustavopereiranogueira%40gmail.com-red?logo=gmail)](mailto:gustavopereiranogueira@gmail.com)
+<p align="left">
+
+<a href="https://www.linkedin.com/in/gustavonogueira-32758633" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Gustavo%20Nogueira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://github.com/gulinux86" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-gulinux86-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="mailto:gustavopereiranogueira@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-gustavopereiranogueira-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+&nbsp;
+<a href="https://www.credly.com/users/gustavo-nogueira" target="_blank">
+  <img src="https://img.shields.io/badge/Credly-Verified%20Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/>
+</a>
+
+</p>
