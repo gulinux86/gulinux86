@@ -89,7 +89,7 @@
     </td>
     <td align="center" width="160">
       <a href="https://www.credly.com/badges/06fcce3f-cf23-4e98-bc25-dd3575c88cbb/public_url" target="_blank">
-        <img src="https://images.credly.com/size/150x150/images/8b8ed108-e77d-4396-ac59-2504583b9d54/image.png" width="110" alt="CKA"/>
+        <img src="https://images.credly.com/size/150x150/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="110" alt="CKA"/>
       </a>
       <br/>
       <sub><b>Certified Kubernetes<br/>Administrator (CKA)</b></sub>
