@@ -16,7 +16,7 @@
 
 🏅 I bring solid experience in **AWS and Google Cloud (GCP)**, supported by professional-level certifications. I have worked with core services such as VPC, IAM, compute, containers, storage, and event-driven architectures, applying best practices for scalability, security, and cost optimization.
 
-🔐 I have deep hands-on experience with **Istio service mesh**, including mTLS, JWT-based authentication, traffic management (canary, mirror, fault injection), egress control, and distributed tracing with OpenTelemetry — running on production-grade Kubernetes clusters.
+🔐 I have deep hands-on experience with **Istio service mesh**, including mTLS, JWT-based authentication, traffic management (canary, mirror, fault injection), egress control, and distributed tracing with OpenTelemetry.
 
 🐧 My SysAdmin background provides strong expertise in **Linux, networking, DNS, storage, web servers, virtualization, and monitoring**.
 
@@ -71,16 +71,46 @@
 
 ## 🏆 Certifications
 
-| Badge | Certification |
-|---|---|
-| 🔵 | **Google Cloud Certified – Professional Cloud Architect** (PCA) `NEW` |
-| 🔵 | **Google Cloud Certified – Associate Cloud Engineer** (ACE) |
-| 🟡 | **AWS Certified Solutions Architect – Associate** (SAA-C03) |
-| 🟡 | **AWS Certified Cloud Practitioner** (CLF-C01) |
-| ⚙️ | **Certified Kubernetes Administrator** (CKA) |
-| 🟠 | **LPIC-1: Linux Administrator** (LPI) |
-| 🟠 | **LPIC-2: Linux Engineer** (LPI) |
-| 🔴 | **Oracle Cloud Infrastructure Foundations Associate** |
+<p align="left">
+
+<!-- 1. GCP Professional Cloud Architect ← NEWEST -->
+<a href="https://www.credly.com/badges/631419a4-20db-48bd-b4a1-5c4ddd6aa14d/public_url" target="_blank">
+  <img src="https://images.credly.com/size/150x150/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png" alt="GCP Professional Cloud Architect" width="110" title="GCP Professional Cloud Architect ★ NEW"/>
+</a>&nbsp;
+
+<!-- 2. GCP Associate Cloud Engineer -->
+<a href="https://www.credly.com/badges/bb43d25b-4d68-45a6-b98a-d033d8ae9190/public_url" target="_blank">
+  <img src="https://images.credly.com/size/150x150/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" alt="GCP Associate Cloud Engineer" width="110" title="GCP Associate Cloud Engineer"/>
+</a>&nbsp;
+
+<!-- 3. CKA -->
+<a href="https://www.credly.com/badges/06fcce3f-cf23-4e98-bc25-dd3575c88cbb/public_url" target="_blank">
+  <img src="https://images.credly.com/size/150x150/images/8b8ed108-e77d-4396-ac59-2504583b9d54/image.png" alt="Certified Kubernetes Administrator" width="110" title="Certified Kubernetes Administrator (CKA)"/>
+</a>&nbsp;
+
+<!-- 4. AWS Solutions Architect Associate -->
+<a href="https://www.credly.com/badges/3af6d657-c8c2-4b61-b828-64697c0c22f0/public_url" target="_blank">
+  <img src="https://images.credly.com/size/150x150/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect Associate" width="110" title="AWS Solutions Architect Associate"/>
+</a>&nbsp;
+
+<!-- 5. AWS Cloud Practitioner -->
+<a href="https://www.credly.com/badges/16c7ed3c-2923-43e8-81b8-63c9f8c2bf0d/public_url" target="_blank">
+  <img src="https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner" width="110" title="AWS Cloud Practitioner"/>
+</a>&nbsp;
+
+<!-- 6. LPIC-2 -->
+<a href="https://www.credly.com/badges/1d57f907-f932-454b-8abd-35e4f923c9ca/public_url" target="_blank">
+  <img src="https://images.credly.com/size/150x150/images/c25da127-36bd-4871-8100-7d4c56f40574/blob" alt="LPIC-2" width="110" title="LPIC-2: Linux Engineer"/>
+</a>&nbsp;
+
+<!-- 7. LPIC-1 ← OLDEST -->
+<a href="https://www.credly.com/badges/fd0ccdd2-c520-4544-99e0-1e7f7d1abb35/public_url" target="_blank">
+  <img src="https://images.credly.com/size/150x150/images/c0ffb784-86af-4e2e-8f97-fe4fff1aa57a/blob" alt="LPIC-1" width="110" title="LPIC-1: Linux Administrator"/>
+</a>
+
+</p>
+
+> 🔗 View all verified badges on [Credly](https://www.credly.com/users/gustavo-nogueira)
 
 ---
 
